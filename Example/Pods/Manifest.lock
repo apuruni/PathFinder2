@@ -1,0 +1,16 @@
+PODS:
+  - PathFinder2 (0.1.0)
+
+DEPENDENCIES:
+  - PathFinder2 (from `../`)
+
+EXTERNAL SOURCES:
+  PathFinder2:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PathFinder2: 33826b1a7469acdee86ea18c5c6da7fa7b3677a0
+
+PODFILE CHECKSUM: bf883d46c653e1af6c4ed28b038e962220ffa180
+
+COCOAPODS: 1.3.1

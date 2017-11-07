@@ -1,0 +1,6 @@
+framework module PathFinder2 {
+  umbrella header "PathFinder2-umbrella.h"
+
+  export *
+  module * { export * }
+}
